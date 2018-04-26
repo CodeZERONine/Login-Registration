@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "409862149699",
+    "firebase_url": "https://bobtalk-259ca.firebaseio.com",
+    "project_id": "bobtalk-259ca",
+    "storage_bucket": "bobtalk-259ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:409862149699:android:cd761f59483ac836",
+        "android_client_info": {
+          "package_name": "com.akshanshgusain.bobtalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "409862149699-nhn256olea1ppmrpitiqtsrfi7f5qvq4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.akshanshgusain.bobtalk",
+            "certificate_hash": "bba79a47df891b5d22c5a4b1fa01dac1516b03a8"
+          }
+        },
+        {
+          "client_id": "409862149699-k9osq8d7q03meent735pputnasmdf0oc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvhDLjelGHiCcb4Y7WRuN_K28BaKgZ6MQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "409862149699-k9osq8d7q03meent735pputnasmdf0oc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

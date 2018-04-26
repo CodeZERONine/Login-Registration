@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BobTalk</string>
+    <string name="app_main">MAIN</string>
+    <string name="need_a_new_account">NEED A NEW ACCOUNT</string>
+</resources>
